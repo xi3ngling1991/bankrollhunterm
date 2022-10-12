@@ -1,0 +1,2 @@
+# bankrollhunterm
+copy lonecapital chart
